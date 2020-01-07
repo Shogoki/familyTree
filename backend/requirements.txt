@@ -1,0 +1,6 @@
+flask
+flask_cors
+flask_sqlalchemy
+graphene
+graphene_sqlalchemy
+lask_graphql
